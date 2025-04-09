@@ -1,4 +1,4 @@
-# Healthcare Insurance Company
+# Healthcare Insurance Company Analysis
 
 ![image](https://github.com/user-attachments/assets/7e60ead2-239f-433b-ac43-7086d29a4f77)
 
